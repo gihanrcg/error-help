@@ -3,7 +3,8 @@
     "displayName": "Error Help",
     "publisher": "GihanSiriwardhana",
     "description": "Search help for your errors and warnings",
-    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
