@@ -4,7 +4,11 @@
     "publisher": "GihanSiriwardhana",
     "description": "Search help for your errors and warnings",
     "icon": "images/icon.png",
-    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gihanrcg/error-help.git"
+    },
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -12,14 +16,30 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:error-help.searchStackOverFlow"
+        "onCommand:error-help.searchGoogle",
+        "onCommand:error-help.searchYoutube",
+        "onCommand:error-help.searchStackOverflow",
+        "onCommand:error-help.searchGithub"
     ],
     "main": "./extension.js",
     "contributes": {
         "commands": [{
-            "command": "error-help.searchStackOverFlow",
-            "title": "Search StackOverFlow"
-        }]
+                "command": "error-help.searchGoogle",
+                "title": "Search Google"
+            },
+            {
+                "command": "error-help.searchYoutube",
+                "title": "Search Youtube"
+            },
+            {
+                "command": "error-help.searchStackOverflow",
+                "title": "Search Stack Overflow"
+            },
+            {
+                "command": "error-help.searchGithub",
+                "title": "Search Github"
+            }
+        ]
     },
     "scripts": {
         "lint": "eslint .",
