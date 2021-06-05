@@ -10,7 +10,7 @@ This is a very simple extension developed to help developers in searching help f
 
 - Select one and press enter
 
-![search on stackoverflow](images\changelog\0.0.1.gif)
+![search on stackoverflow](images/changelog/0.0.1.gif)
 
 
 ## Future Work
