@@ -19,7 +19,7 @@ This is a very simple extension developed to help developers in searching help f
 > Directly navigate to stackoverflow questions based on the search
 
 
-- <img src="images\changelog\0.0.5\stackoverflowApi.gif" width="500" />
+- <img src="https://github.com/gihanrcg/error-help/blob/main/images/changelog/0.0.5/stackoverflowApi.gif?raw=true" width="800" />
 
 
 
@@ -28,7 +28,7 @@ This is a very simple extension developed to help developers in searching help f
 ### Search Directly on Google
 - Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, insert the text and press <kbd>Enter</kbd>.
 - Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, type `>Search Text Google` ,insert the text and press <kbd>Enter</kbd>.
-- <img src="images\changelog\0.0.5\googleSearch.PNG" width="500" />
+- <img src="https://github.com/gihanrcg/error-help/blob/main/images/changelog/0.0.5/googleSearch.PNG?raw=true" width="800" />
 
 
 
@@ -36,7 +36,7 @@ This is a very simple extension developed to help developers in searching help f
 1. Select a portion of text in the editor.
 2. Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>, wait for the result to display.
 3. Select any option you like.
-- <img src="images\changelog\0.0.5\stack.png" width="500" />
+- <img src="https://github.com/gihanrcg/error-help/blob/main/images/changelog/0.0.5/stack.png?raw=true" width="500" />
 
 
 ### Search errors in the code in Google
